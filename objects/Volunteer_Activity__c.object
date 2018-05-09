@@ -80,6 +80,11 @@
         <writeRequiresMasterRead>false</writeRequiresMasterRead>
     </fields>
     <label>Volunteer Activity</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
     <nameField>
         <label>Volunteer Activity Name</label>
         <type>Text</type>

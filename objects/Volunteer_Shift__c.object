@@ -177,6 +177,11 @@
         <unique>false</unique>
     </fields>
     <label>Volunteer Shift</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
     <nameField>
         <label>Volunteer Shift Name</label>
         <type>Text</type>

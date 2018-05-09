@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
+        <members>Volunteer_Tracker</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
         <members>*</members>
         <name>CustomField</name>
     </types>
@@ -9,9 +13,18 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>*</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
         <members>Volunteer_Dashboards</members>
         <members>Volunteer_Dashboards/zSHtUyfzbKEXcwSwtXrlmcWwxXKxkI</members>
         <name>Dashboard</name>
+    </types>
+    <types>
+        <members>Volunteer_Tracker_UtilityBar</members>
+        <members>Volunteering_Data</members>
+        <name>FlexiPage</name>
     </types>
     <types>
         <members>*</members>

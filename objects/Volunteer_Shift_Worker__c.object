@@ -206,6 +206,11 @@
         <type>Lookup</type>
     </fields>
     <label>Volunteer Shift Worker</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
     <nameField>
         <displayFormat>Shift-{0000}</displayFormat>
         <label>Volunteer Shift Worker ID</label>
